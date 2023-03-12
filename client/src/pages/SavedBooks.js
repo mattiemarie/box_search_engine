@@ -9,7 +9,7 @@ import {
 
 // import { getMe, deleteBook } from '../utils/API';
 import { GET_ME } from '../utils/queries';
-import { REMOVE_BOOK } from '../utils/mutation';
+import { REMOVE_BOOK } from '../utils/mutations';
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
 
